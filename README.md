@@ -19,6 +19,13 @@
   interact with. It is always written in the frontend languages: JavaScript,
   HTML, and CSS. (_There are others now, but they are based on these three._)
 - **Cross-Origin Resource Sharing (CORS)**: a method for a server to indicate
+
+
+lesson learnt
+
+
+
+
   any ports (or other identifiers) for servers that can share its resources.
 - **Transmission Control Protocol (TCP)**: a protocol that defines how computers
   send data to each other. A connection is formed and stays active until the
